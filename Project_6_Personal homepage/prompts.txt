@@ -1,0 +1,39 @@
+with your guidance, i'd like to build a personal homepage using HTML and CSS.
+please note that i'll only request specific code snippets as we progress, so there's 
+no need to provide code untill explicitly ask for it. do you understand? 
+
+// HTML STRUCTURE 
+Help me design a basic HTML structure for a personal homepage.
+it should have the following sections: a header, a section for displaying my projects,
+an about section and a section for showcasing my skills. Also, include a footer. 
+
+please add these sections as placeholders for now, as we will be coding them and filling them out step by step.
+Do you understand?  
+
+// Header and Navigation 
+please code an HTML header displaying my name, Chidiebere John, and navigation links for the sections: projects,
+about, and skills. 
+
+// About Section 
+Now guide me to create the HTML for the about section. it should include 
+my picture, a friendly introduction, and a link to my resume. 
+
+// Skills Section
+Now let's code the HTML for my skills section
+
+let's start with the skills: HTML, CSS, JavaScript, Python. 
+Each skill should have a name and a description. i also want to display a 
+progress bar representing my proficiency in each skill. 
+do you understand? 
+
+//footer
+Create the HTML for the page footer. It should contain copyright information and links to my LinkedIn, Twitter,
+facebook profiles. please use icon fonts to display a social media icon for each link. 
+
+// CSS Layout and Design 
+Next, design a simple modern CSS layout for my homepage.
+The layout should be responsive to different screen sizes using CSS media queries.
+
+i prefer a black-and-white colour scheme and sans-serif fonts.
+
+make my picture smaler and rounded. please add generous line height and visual space around the content. 
