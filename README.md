@@ -4,6 +4,8 @@ This is the source code for my personal website, which showcases my projects, sk
 
 ## Features
 
+ok
+
 - **Header**: Displays my name and navigation links to the different sections of the website.
 - **About Me**: Includes a profile picture and a brief introduction about myself.
 - **Skills**: Showcases my proficiency in various web development technologies, such as HTML, CSS, JavaScript, and Python.
@@ -27,3 +29,6 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+//////
+Aditions
